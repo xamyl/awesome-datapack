@@ -4,11 +4,10 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
-
+#  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Datapack Tools
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A bunch of awesome tools for Minecraft datapack creators!
 
 <!-- image -->
 
@@ -16,44 +15,36 @@ A template for an awesome list with required conventions out of the box!
   <img src="" />
 </a>
 
-<!-- description -->
-
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
-
 </div>
 
 <!-- TOC -->
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Things to assist you while creating a datapack](#creation-assisters)
+- [Template Stuff](#templates)
+- [Miscellaneous](#misc)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Creation Assisters
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Misode's Datapack Tools](https://misode.github.io) - Extremely helpful changelogs, generators, and more for creating datapacks!
+- [Minecraft Wiki](https://minecraft.wiki) - Minecraft Wikipedia. Has tons of information on additions, and pretty much everything else too.
+- [Datapack Reload Helper](https://modrinth.com/datapack/datapack-reload-helper) - Datapack that shows a dialog when reloading is complete. Suprisingly helpful.
 
-## Section 1
+## Templates
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
+## Misc
+
+- [Minecraft Releases Tracker](https://bsky.app/profile/minecraft-releases.pixigeko.com) - Bluesky bot that automatically posts when an update is released.
+
 <!-- END CONTENT -->
 
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
-### Contributors
-
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
